@@ -1,0 +1,16 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "bab2ff2e-37b3-471c-804d-5e9fefcb624e")
+	(paper "A4")
+	(title_block
+		(title "KiCon")
+	)
+	(lib_symbols)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
